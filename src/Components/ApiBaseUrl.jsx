@@ -1,2 +1,2 @@
-const ApiBaseUrl = "http://localhost:4000/api/"
+const ApiBaseUrl = "https://el7a2ny-phaemacy-management.onrender.com"
 export default  ApiBaseUrl;
